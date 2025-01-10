@@ -32,7 +32,7 @@ int main() {
 
 
 
-    // Task 3: Convert this ternary expression to an if-else block (includes ||)
+    // Task 3: Convert this ternary expression to an if-else block
     string result1 = (number1 == 0 || number2 == 0) ? "At least one number is zero" : "Neither number is zero";
     cout << result1 << endl;
 
